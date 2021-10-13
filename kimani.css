@@ -1,0 +1,45 @@
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+h1 {
+  font-size: 50px;
+  font-style: italic;
+background-color: pink;
+  text-align: center;
+  font-weight:600;
+}
+body{
+  background-color:white;
+}
+p {
+  font-family: helvetica;
+  font-size:60px;
+  color:pink;
+  font-weight:600;
+}
+a{
+  color: pink;
+}
+img {
+  width: 30%;
+  height: 20%;
+}
+.menu{
+  background-color: steelblue;
+  margin: 0;
+  padding: 0px;
+  display: block;
+  text-decoration: none;
+  color: blue;
+  float:left;
+}
+nav a:hover{
+background-color:purple;
+}
+iframe{
+  color: red;
+}
